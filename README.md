@@ -1,16 +1,63 @@
-## Hi there 👋
+<img src="https://media.tenor.com/HJ8Nxo6FkI0AAAAM/broncos-hello.gif" align="left" height="" width="211" />  
+  
 
-<!--
-**gigik4/gigik4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <div align="center"> Eu sou a gigi ♡</div>  
+  
 
-Here are some ideas to get you started:
+<div align="center">
+<a href="https://github.com/gigik4" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/@giyxz_" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/gigikks_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### toc toc... quem é?  
+Oi! 👋 
+
+
+Me chamo Geovanna, tenho 20 anos e sou estudante de **Ciência da Computação na UCB** e também curso **Técnico em Informática**. A programação entrou na minha vida há pouco tempo, mas desde que a conheci eu me apaixonei por essa área e decidi mergulhar de cabeça!
+
+Comecei estudando Python, por ser mais amigável para iniciantes, e depois iniciei meus estudos com Java, uma linguagem com grande presença no mercado e muitas oportunidades. Ainda estou no início da jornada, mas com muita vontade de aprender e crescer.
+
+**Meu maior objetivo?**
+
+Me tornar uma excelente desenvolvedora e transformar não só a minha vida, mas também a da minha família por meio da tecnologia.💕👾  
+  
+
+<br/>  
+
+<details><summary> Languages and Tools </summary><div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+</div></details>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gigik4&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="right">
+<img src="https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif" align="right" height="115" width="212" />
+</div>  
+
+
+</td></tr></table>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
