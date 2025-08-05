@@ -25,11 +25,7 @@ Oi! 👋
 
 Me chamo Geovanna, tenho 20 anos e sou estudante de **Ciência da Computação na UCB** e também curso **Técnico em Informática**. A programação entrou na minha vida há pouco tempo, mas desde que a conheci eu me apaixonei por essa área e decidi mergulhar de cabeça!
 
-Comecei estudando Python, por ser mais amigável para iniciantes, e depois iniciei meus estudos com Java, uma linguagem com grande presença no mercado e muitas oportunidades. Ainda estou no início da jornada, mas com muita vontade de aprender e crescer.
-
-**Meu maior objetivo?**
-
-Me tornar uma excelente desenvolvedora e transformar não só a minha vida, mas também a da minha família por meio da tecnologia.💕👾  
+Comecei estudando Python, por ser mais amigável para iniciantes, e depois iniciei meus estudos com Java, uma linguagem com grande presença no mercado e muitas oportunidades. Ainda estou no início da jornada, mas com muita vontade de aprender e crescer 💕👾  
   
 
 <br/>  
