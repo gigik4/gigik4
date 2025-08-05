@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/HJ8Nxo6FkI0AAAAM/broncos-hello.gif" align="left" height="" width="211" />  
+<img src="https://i.pinimg.com/originals/81/51/02/8151029945f2569574e4586054f23073.gif" align="left" height="" width="211" />  
   
 
 ## <div align="center"> Eu sou a gigi ♡</div>  
