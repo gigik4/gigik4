@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/81/51/02/8151029945f2569574e4586054f23073.gif" align="left" height="" width="211" />  
+<img src="https://i.pinimg.com/originals/81/51/02/8151029945f2569574e4586054f23073.gif](https://i.pinimg.com/originals/f2/58/99/f258997a921c7f6c2ebf19ebcd25cfa7.gif" align="left" height="" width="211" />  
   
 
 ## <div align="center"> Eu sou a gigi ♡</div>  
