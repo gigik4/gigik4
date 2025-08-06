@@ -1,4 +1,10 @@
-<img src="img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/fa5dda4a-50b9-4f75-86bc-9f0127e3f3a5" align="left" height="" width="211" />  
+<img 
+  src="https://i.pinimg.com/originals/f2/58/99/f258997a921c7f6c2ebf19ebcd25cfa7.gif" 
+  alt="image" 
+  width="250" 
+  height="250" 
+  align="left"
+/>
   
 
 ## <div align="center"> Eu sou a gigi ♡</div>  
