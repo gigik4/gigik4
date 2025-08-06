@@ -62,4 +62,3 @@ Comecei estudando Python, por ser mais amigável para iniciantes, e depois inici
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
