@@ -29,18 +29,14 @@
 Oi! 👋 
 
 
-Me chamo Geovanna, tenho 20 anos e sou estudante de **Ciência da Computação na UCB** e também curso **Técnico em Informática**. A programação entrou na minha vida há pouco tempo, mas desde que a conheci eu me apaixonei por essa área e decidi mergulhar de cabeça!
-
-Comecei estudando Python, por ser mais amigável para iniciantes, e depois iniciei meus estudos com Java, uma linguagem com grande presença no mercado e muitas oportunidades. Ainda estou no início da jornada, mas com muita vontade de aprender e crescer 💕👾  
-  
+Me chamo Geovanna, tenho 21 anos e sou estudante de **Análise e Desenvolvimento de Sistemas na UCB** e também faço curso **Técnico em Informática**. A programação entrou na minha vida há pouco tempo, mas desde que a conheci eu me apaixonei por essa área e decidi mergulhar de cabeça!
 
 <br/>  
 
 <details><summary> Languages and Tools </summary><div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>   
 </div></details>  
 
 <br/>  
